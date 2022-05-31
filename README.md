@@ -22,6 +22,9 @@ $$ f1(ω)=σ22π, ω∈[−π,π] $$
   * second sub-item
  
  
+ ![cat](https://github.com/RahatSiddique2001/LocalRepo/blob/main/assignmentPic.png)
+ 
+ 
 `library(tidyverse)`    
 `library(mdsr)`    
 `SAT_2010 %>% ggplot(aes(write,..density..)) + geom_histogram() +`    
