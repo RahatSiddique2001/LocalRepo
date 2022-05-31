@@ -2,13 +2,10 @@
 ## You have to write markdown
 ### Some Math Equation 
 
-$$
+$$ 
 \begin{align*}
-
-\ \text{First\ equation: } & Y = X\beta + \epsilon_y,\forall X
-
+\ \text{First\ equation: } & Y = X\beta + \epsilon_y,\forall X 
 \\\ \text{Second\ equation: } & X = Z\gamma + \epsilon_x
-
 \end{align*}
 $$
 
